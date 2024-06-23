@@ -329,5 +329,4 @@ zodiacBtn.onclick = function(){
 
 
 // Test
-console.log(`Daniel: ${zodQuote.devActivity}`)
-console.log(`Riel: ${zodQuote.devActivity}`)
+console.log(`Munaza: ${zodQuote.devActivity}`)
